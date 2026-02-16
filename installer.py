@@ -14,7 +14,7 @@ LOADER_VERSION = "0.18.4"
 MODS = {
     "fabric-api": "P7dR8mSH",
     "sodium": "AANobbMI",
-    "no-chat-reports": "qQyHxfxd"
+    "no-chat-reports": "z440MEwJ"
 }
 
 # ==========================
